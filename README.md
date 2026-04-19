@@ -29,6 +29,7 @@ This material combines original content with ideas and examples inspired by some
 - [**Niko Matsakis**](https://smallcultfollowing.com/babysteps/) — language design, borrow checker internals, Polonius
 - [**Rust by Example**](https://doc.rust-lang.org/rust-by-example/) and [**Rustonomicon**](https://doc.rust-lang.org/nomicon/) — practical patterns and unsafe deep-dives
 - [**This Week in Rust**](https://this-week-in-rust.org/) — community discoveries that shaped many examples
+- [**Binary Musings - Tag(Rust)**](https://binarymusings.org/posts/category/rust/) — Deep dive into Rust internals 
 - …and many others in the **Rust community at large** whose blog posts, conference talks, RFCs, and forum discussions have informed this material — too numerous to list individually, but deeply appreciated
 
 ## 📖 Start Reading
